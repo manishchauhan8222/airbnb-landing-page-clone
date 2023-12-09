@@ -1,0 +1,1 @@
+A responsive clone of Airbnb landing page (https://www.airbnb.co.in/d/designhost?locale=en&_set_bev_on_new_domain=1666721897_OGRhOGZiZTBiZGYw) using ReactJS and tailwindCSS. React-responsive-carousel is customized and used for carousel components. 
